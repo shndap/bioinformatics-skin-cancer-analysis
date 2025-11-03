@@ -6,10 +6,6 @@ A comprehensive transcriptomic analysis project investigating skin cancer biomar
 
 This project analyzes transcriptome sequencing data from skin cancer and adjacent normal tissues to identify differentially expressed genes and pathways associated with skin cancer development. The analysis includes data fetching, quality control, genome alignment, differential expression analysis, and functional enrichment studies.
 
-## Authors
-- Sahand Akramipour (401110618)
-- Yousef Miryousefi (401110642)
-
 ## Technologies Used
 - **Python**: Data fetching, quality control, alignment
 - **R**: Differential expression analysis (DESeq2), pathway analysis (clusterProfiler), visualization
