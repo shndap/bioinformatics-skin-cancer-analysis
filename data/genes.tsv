@@ -1,0 +1,15 @@
+GeneID	Symbol	Description	log2(fold change)	-log10(Pvalue)
+6703	SPRR2D	small proline rich protein 2D	2.932	2.008
+467	ATF3	activating transcription factor 3	1.187	1.721
+10644	IGF2BP2	insulin like growth factor 2 mRNA binding protein 2	0.424	1.302
+629	CFB	complement factor B	1.589	2.902
+7128	TNFAIP3	TNF alpha induced protein 3	1.227	3.661
+1846	DUSP4	dual specificity phosphatase 4	1.157	1.647
+3934	LCN2	lipocalin 2	1.655	1.64
+4791	NFKB2	nuclear factor kappa B subunit 2	1.072	2.004
+4643	MYO1E	myosin IE	0.431	2.695
+718	C3	complement C3	1.852	3.999
+5266	PI3	peptidase inhibitor 3	1.627	3.024
+7764	ZNF217	zinc finger protein 217	0.331	2.008
+3460	IFNGR2	interferon gamma receptor 2	0.453	2.901
+6303	SAT1	spermidine/spermine N1-acetyltransferase 1	0.937	2.825

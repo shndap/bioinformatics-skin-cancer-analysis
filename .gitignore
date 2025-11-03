@@ -1,0 +1,39 @@
+# Large data files
+*.fastq.gz
+*.bam
+*.sam
+*.fa.gz
+*.gtf.gz
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# R
+.Rhistory
+.RData
+*.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
